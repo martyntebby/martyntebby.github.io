@@ -1,3 +1,3 @@
-JSX Render Hacker News Demo
----------------------------
-[https://martyntebby.github.io/jsxrender/public/]
+JSX Render
+----------
+[Hacker News Demo](https://martyntebby.github.io/jsxrender/public/)
